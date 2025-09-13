@@ -41,7 +41,7 @@ Join our vibrant community to stay updated on the latest news and announcements.
 
 * **Twitter/X:** [@MetaHoldWallet](https://twitter.com/MetaHoldWallet)
 * **Telegram:** [t.me/MetaHoldCommunity](https://t.me/MetaHoldWallet)
-* **Discord:** [discord.gg/MetaHold]
+* **Discord:** [https://discord.gg/DjTtVwka]
 
 ---
 
