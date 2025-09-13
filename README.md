@@ -20,9 +20,9 @@ A cutting-edge, non-custodial, multi-chain crypto wallet that serves as your sin
 For a deep dive into our vision, technology, and tokenomics, please explore our official documentation.
 
 * **Official Website:** [https://www.metahold.io](https://www.metahold.io)
-* **Whitepaper:** [link-to-your-whitepaper.pdf](link-to-your-whitepaper.pdf)
-* **Tokenomics:** [docs/tokenomics.md](docs/tokenomics.md)
-* **Smart Contract Address:** `[Your Contract Address Here]`
+* **Whitepaper:** [https://github.com/MetaHoldWallet/metahold-white-paper/blob/main/README.md](https://github.com/MetaHoldWallet/metahold-white-paper/blob/main/README.md)
+* **Tokenomics:** [https://github.com/MetaHoldWallet/tokenomic](https://github.com/MetaHoldWallet/tokenomic)
+* **Smart Contract Address:** `[0xB46604486c1AeEB64c294926c4DcA21d9614DEB9]`
 
 ---
 
